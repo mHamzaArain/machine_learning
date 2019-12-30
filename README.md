@@ -1,4 +1,4 @@
-# machine-learning
+# Machine Learning
 Machine Learning A-Z Hands-On Python & R In Data Science
 
 ## Datasets
