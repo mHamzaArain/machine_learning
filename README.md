@@ -19,6 +19,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 ## Part 2: Regression
 - Simple Linear Regression
 - Multiple Linear Regression
+- Polynomial Linear Regression
 
 ## Part 3: Classification
 
