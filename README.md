@@ -4,6 +4,11 @@ Machine Learning A-Z Hands-On Python & R In Data Science
 ## Datasets
 For datasets for this course [link](https://www.superdatascience.com/pages/machine-learning).
 
+## Part 0: Presrequisites
+- P-value
+- R-Squared 
+- Adj R-Square
+
 ## Part 1: Data Processing
 - Handling missing data
 - Catagoraical data
@@ -12,6 +17,8 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 > By Standardization OR Normalization to resist biasing of high or lower values as Machine Learning use Euclidean Distance Formula. 
 
 ## Part 2: Regression
+- Simple Linear Regression
+- Multiple Linear Regression
 
 ## Part 3: Classification
 
