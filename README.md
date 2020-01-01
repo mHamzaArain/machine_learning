@@ -22,21 +22,13 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 > By Standardization OR Normalization to resist biasing of high or lower values as Machine Learning use Euclidean Distance Formula. 
 
 ## Part 2: Regression
-
-Regression models (both linear and non-linear) are used for predicting a real value, like salary for example. If your independent variable is time, then you are forecasting future values, otherwise your model is predicting present but unknown values. Regression technique vary from Linear Regression to SVR and Random Forests Regression.
-In this part, you will understand and learn how to implement the following Machine Learning Regression models:
-
 1. Simple Linear Regression
-> Explanation Simple Linear Regression [video](https://www.youtube.com/watch?v=CtKeHnfK5uA)
 2. Multiple Linear Regression
 3. Polynomial Linear Regression
 4. Support Vector Regression(SVR) 
-> Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
 5. Decision Tree Regression
-> Explanation of Decision Tree Regression [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
 6. Random Forest Regression
-> Explanation of Random Forest Regression [video](https://www.youtube.com/watch?v=D_2LkhMJcfY
-)
+
 ## Part 3: Classification
 
 ## Part 4: Clustring
