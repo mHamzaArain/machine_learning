@@ -33,9 +33,9 @@ In this part, you will understand and learn how to implement the following Machi
 4. Support Vector Regression(SVR) 
 > Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
 5. Decision Tree Regression
-> Explanation of Decision tree regression [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
+> Explanation of Decision Tree Regression [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
 6. Random Forest Regression
-> Explanation of Random Forest REgression [video](https://www.youtube.com/watch?v=D_2LkhMJcfY
+> Explanation of Random Forest Regression [video](https://www.youtube.com/watch?v=D_2LkhMJcfY
 )
 ## Part 3: Classification
 
