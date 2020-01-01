@@ -10,7 +10,7 @@ Let's answer each of these questions one by one:
 
     1. What are the pros and cons of each model ?
 
-Please find [here](link) a cheat-sheet that gives you all the pros and the cons of each regression model.
+Please find [here](https://github.com/mHamzaHanif/machine_learning/blob/02_regression/Part%202:%20Regression/materail-for-README/pros_cons_regression.pdf) a cheat-sheet that gives you all the pros and the cons of each regression model.
 
     2. How do I know which model to choose for my problem ?
 
@@ -30,4 +30,4 @@ In Part 10 - Model Selection, you will find the second section dedicated to Para
 
 The hyperparameters are the parameters that are not learnt and that are fixed values inside the model equations. For example, the regularization parameter lambda or the penalty parameter C are hyperparameters. So far we used the default value of these hyperparameters, and we haven't searched for their optimal value so that your model reaches even higher performance. Finding their optimal value is exactly what Parameter Tuning is about. So for those of you already interested in improving your model performance and doing some parameter tuning, feel free to jump directly to Part 10 - Model Selection.
 
-And as a BONUS, please find here some [slides](link) we made about Regularization.
+And as a BONUS, please find here some [slides](https://github.com/mHamzaHanif/machine_learning/blob/02_regression/Part%202:%20Regression/materail-for-README/Regularization.pdf) we made about Regularization.
