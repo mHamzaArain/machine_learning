@@ -26,15 +26,15 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 Regression models (both linear and non-linear) are used for predicting a real value, like salary for example. If your independent variable is time, then you are forecasting future values, otherwise your model is predicting present but unknown values. Regression technique vary from Linear Regression to SVR and Random Forests Regression.
 In this part, you will understand and learn how to implement the following Machine Learning Regression models:
 
-- Simple Linear Regression
+1. Simple Linear Regression
 > Explanation Simple Linear Regression [video](https://www.youtube.com/watch?v=CtKeHnfK5uA)
-- Multiple Linear Regression
-- Polynomial Linear Regression
-- Support Vector Regression(SVR) 
+2. Multiple Linear Regression
+3. Polynomial Linear Regression
+4. Support Vector Regression(SVR) 
 > Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
-- Decision Tree Regression
+5. Decision Tree Regression
 > Explanation of Decision tree regression [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
-- Random Forest Regression
+6. Random Forest Regression
 > Explanation of Random Forest REgression [video](https://www.youtube.com/watch?v=D_2LkhMJcfY
 )
 ## Part 3: Classification
