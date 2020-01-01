@@ -20,6 +20,8 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 - Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Linear Regression
+- Support Vector Regression(SVR) 
+  Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
 
 ## Part 3: Classification
 
