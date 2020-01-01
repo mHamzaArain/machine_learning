@@ -8,6 +8,11 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 - P-value
 - R-Squared 
 - Adj R-Square
+- mean 
+- median 
+- likelihood
+- Normalization
+- Standardrization
 
 ## Part 1: Data Processing
 - Handling missing data
@@ -24,7 +29,9 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 > Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
 - Decision Tree Regression
 > Explanation of Decision tree regression [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
-
+- Random Forest Regression
+> Explanation of Random Forest REgression [video](https://www.youtube.com/watch?v=D_2LkhMJcfY
+)
 ## Part 3: Classification
 
 ## Part 4: Clustring
