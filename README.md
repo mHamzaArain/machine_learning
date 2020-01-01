@@ -21,7 +21,9 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 - Multiple Linear Regression
 - Polynomial Linear Regression
 - Support Vector Regression(SVR) 
-  Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
+> Explanation of SVR [video](https://www.youtube.com/watch?v=Y6RRHw9uN9o)
+- Decision Tree Regression
+> Explanation of Decision tree regression [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU)
 
 ## Part 3: Classification
 
