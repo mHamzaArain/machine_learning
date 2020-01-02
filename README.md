@@ -6,6 +6,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 
 ## Part 0: Presrequisites
 - P-value
+- Residuals
 - R-Squared 
 - Adj R-Square
 - mean 
