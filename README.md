@@ -13,6 +13,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 - likelihood
 - Normalization
 - Standardrization
+- Confusion Matrix
 
 ## Part 1: Data Processing
 - Handling missing data
@@ -30,6 +31,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 6. Random Forest Regression
 
 ## Part 3: Classification
+1. Logestic Regression
 
 ## Part 4: Clustring
 
