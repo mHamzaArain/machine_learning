@@ -32,6 +32,8 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 
 ## Part 3: Classification
 1. Logestic Regression
+2. K-Nearest Neighbors(K-NN)
+3. Support Vector Machine(SVM)
 
 ## Part 4: Clustring
 
