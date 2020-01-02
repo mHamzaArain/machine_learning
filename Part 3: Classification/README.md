@@ -3,3 +3,5 @@
 
 2. K Nearest Neighbors(KNN)
 > Explanation of KNN [video](https://www.youtube.com/watch?v=MDniRwXizWo).
+
+3. Support Vector Machine(SVM)
