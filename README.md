@@ -35,6 +35,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 1. Logestic Regression
 2. K-Nearest Neighbors(K-NN)
 3. Support Vector Machine(SVM)
+4. SVM Kernels
 
 ## Part 4: Clustring
 
