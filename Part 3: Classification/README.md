@@ -5,3 +5,4 @@
 > Explanation of KNN [video](https://www.youtube.com/watch?v=MDniRwXizWo).
 
 3. Support Vector Machine(SVM)
+4. SVM Kernels
