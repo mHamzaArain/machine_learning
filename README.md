@@ -36,6 +36,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 2. K-Nearest Neighbors(K-NN)
 3. Support Vector Machine(SVM)
 4. SVM Kernels
+5. Naive Bayes Theorem
 
 ## Part 4: Clustring
 
