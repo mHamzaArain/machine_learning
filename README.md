@@ -39,6 +39,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 3. Support Vector Machine(SVM)
 4. SVM Kernels
 5. Naive Bayes Theorem
+6. Random Forest Classification
 
 ## Part 4: Clustring
 
