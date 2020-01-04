@@ -6,3 +6,6 @@
 
 3. Support Vector Machine(SVM)
 4. SVM Kernels
+5. Naive Bayes 
+> Explanation of Naive Bayes Classification [video](https://www.youtube.com/watch?v=CPqOCI0ahss).
+
