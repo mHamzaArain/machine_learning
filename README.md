@@ -15,6 +15,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 - Normalization
 - Standardrization
 - Confusion Matrix
+- Naive base algorithm assumption -> All variables are independant
 
 ## Part 1: Data Processing
 - Handling missing data
