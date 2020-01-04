@@ -10,4 +10,6 @@
 > Explanation of Naive Bayes Classification [video](https://www.youtube.com/watch?v=CPqOCI0ahss).
 6. Decision Tree Classification
 > Explanation of Decision Tree Classification [video](https://www.youtube.com/watch?v=DCZ3tsQIoGU).
+7. Random Forest Classification
+> Explanation of Random Forest Classification [video](https://www.youtube.com/watch?v=D_2LkhMJcfY).
 
