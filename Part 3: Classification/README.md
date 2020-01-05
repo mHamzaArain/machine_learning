@@ -30,7 +30,7 @@ Again, let's answer each of these questions one by one:
 
 1. What are the pros and cons of each model ?
 
-Please find [here](link) a cheat-sheet that gives you all the pros and the cons of each classification model.
+Please find [here](https://github.com/mHamzaHanif/machine_learning/blob/dev/Part%203:%20Classification/Classification-Pros-Cons.pdf) a cheat-sheet that gives you all the pros and the cons of each classification model.
 
 2. How do I know which model to choose for my problem ?
 
