@@ -16,7 +16,13 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 - Standardrization
 - Confusion Matrix
 - Feature Scaling-> For those algo. who apply euclidean distance method
-- Naive base algorithm assumption -> All variables are independant
+- Naive base algorithm assumption -> All variables are independant including X & Y.
+- False Positive: 
+> Predict positive outcome but it's false.
+- False Negative:
+> Predict negative outcome ut it was false.
+- Accuracy Paraox
+- Cummulative Accuracy Curve(CAP)
 
 ## Part 1: Data Processing
 - Handling missing data
