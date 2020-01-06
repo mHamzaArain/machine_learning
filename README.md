@@ -23,6 +23,8 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 > Predict negative outcome ut it was false.
 - Accuracy Paraox
 - Cummulative Accuracy Curve(CAP)
+- Elbow method
+- Kmeans++
 
 ## Part 1: Data Processing
 - Handling missing data
@@ -48,6 +50,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 6. Random Forest Classification
 
 ## Part 4: Clustring
+1. K-Means Clustring
 
 ## Part 5: Association Rule Learning
 
