@@ -21,7 +21,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 > Predict positive outcome but it's false.
 - False Negative:
 > Predict negative outcome ut it was false.
-- Accuracy Paraox
+- Accuracy Paradox
 - Cummulative Accuracy Curve(CAP)
 - Elbow method
 - Kmeans++
