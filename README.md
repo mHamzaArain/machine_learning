@@ -54,6 +54,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 2. Hierarchical Clustring
 
 ## Part 5: Association Rule Learning
+1. Apriori
 
 ## Part 7: Reinforcement Learning
 
