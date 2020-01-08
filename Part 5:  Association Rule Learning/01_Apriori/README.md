@@ -1,3 +1,3 @@
-Optimised way of apriori
+Optimised way to use apriori algorithm.
 
 goto Optimised folder
