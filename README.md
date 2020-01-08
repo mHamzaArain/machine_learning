@@ -51,6 +51,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 
 ## Part 4: Clustring
 1. K-Means Clustring
+2. Hierarchical Clustring
 
 ## Part 5: Association Rule Learning
 
