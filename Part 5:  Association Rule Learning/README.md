@@ -9,7 +9,7 @@ In this part, you will understand and learn how to implement the following Assoc
 > Explanation of Apriori [video](https://www.youtube.com/watch?v=WGlMlS_Yydk)
     
 2. Eclat
-
+> Explanation of Eclat [video](https://www.youtube.com/watch?v=oBiq8cMkTCU)
 
 
 
