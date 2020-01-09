@@ -55,6 +55,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 
 ## Part 5: Association Rule Learning
 1. Apriori
+2. Eclat
 
 ## Part 7: Reinforcement Learning
 
