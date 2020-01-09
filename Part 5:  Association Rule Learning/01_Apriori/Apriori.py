@@ -39,12 +39,17 @@ import pandas as pd
 # Step 2: Importing the dataset
 dataset = pd.read_csv('Market_Basket_Optimisation.csv', header=None)
 
-# transactions = list()
-# for i in range(0, 7501):
-#         transactions.append([str(dataset.values[i, j]) for j in range(0, 20)])
-        
-transactions = [[str(dataset.values[customer, product]) for product in range(0, 20)]
-                  for customer in range(0, 7501)]
+# Step 2(a): Preprocesing data to fit model
+"""
+transactions = []
+for sublist in dataset.values.tolist():    
+    print(sublist)    #  ['mineral water', nan, nan,......, nan]
+    clean_sublist = [item for item in sublist if item is not np.nan]  # ['mineral water']
+    transactions.append(clean_sublist) # remove 'nan' values # https://github.com/rasbt/mlxtend/issues/433
+"""
+transactions = [
+            [product for product in products if product is not np.nan] 
+            for products in dataset.values.tolist()]
 
 # Step 3: Training Apriori on the dataset
 # Step 4: Sortted already with apriori module
