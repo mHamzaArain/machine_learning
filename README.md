@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Machine Learning
 Machine Learning A-Z Hands-On Python & R In Data Science
 
@@ -68,3 +69,5 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 ## Part 11: Dimensionality Reduction 
 
 ## Part 12: Model Selection & Boosting
+=======
+>>>>>>> dev
