@@ -69,5 +69,3 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 ## Part 11: Dimensionality Reduction 
 
 ## Part 12: Model Selection & Boosting
-=======
->>>>>>> dev
