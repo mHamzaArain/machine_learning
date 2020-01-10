@@ -58,6 +58,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 2. Eclat
 
 ## Part 7: Reinforcement Learning
+1. Upper Confidence Boundry(UCB)
 
 ## Part 8: Neural Language Processing
 
