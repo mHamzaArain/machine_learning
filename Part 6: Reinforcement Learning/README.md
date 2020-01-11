@@ -9,3 +9,4 @@ In this part, you will understand and learn how to implement the following Reinf
 > Explanation of Upper Confidence Bound (UCB) [link](https://www.youtube.com/watch?v=AIh_IqejQHM)
 
 2. Thompson Sampling
+> Explanation of Thompson Sampling [video](https://www.youtube.com/watch?v=Nv-jRaOSl1w&list=PLtCBuHKmdxOd8HyfVuAwioPiE1ZkG5IFR&index=48&t=509s)
