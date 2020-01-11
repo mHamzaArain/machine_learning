@@ -59,6 +59,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 
 ## Part 7: Reinforcement Learning
 1. Upper Confidence Boundry(UCB)
+2. Thomson Sampling
 
 ## Part 8: Neural Language Processing
 
