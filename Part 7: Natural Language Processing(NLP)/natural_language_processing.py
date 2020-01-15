@@ -14,7 +14,7 @@ dataset = pd.read_csv('Restaurant_Reviews.tsv',
 import re
 import nltk
 nltk.download('stopwords')        # For dowloading words matching 
-from nltk.corpus import stopword    # Importing stopwords for matching in text 
+from nltk.corpus import stopwords    # Importing stopwords for matching in text 
 from nltk.stem.porter import PorterStemmer  # For Stemping process
 ps = PorterStemmer()                        # Stemp object
 
@@ -44,15 +44,26 @@ for comment in range(comments):
     
     corpus.append(review)
 
-# Creating the Bag of Words model
-from sklearn.feature_extraction.text import CountVectorizer
-cv = CountVectorizer(max_features = 1500)
-X = cv.fit_transform(corpus).toarray()
-y = dataset.iloc[:, 1].values
+# Step 4: Creating the Bag of Words model -> Classificatino(zero=negative, 1=positive comment)
+# Substep 1: Tokenization(i.e; make column for each word)
+from sklearn.feature_extraction.text import CountVectorizer # class for tokenization
+cv = CountVectorizer(
+        # stop_words='english',  # Remove stop words()i.e; has no sense e.g; from, up, etc)
+        # lowercase=True,        # Convert all characters to lowercase before tokenizing.
+        # token_pattern='word',  # Regular expression takes only alphabetes
+        max_features = 1500    #  build a vocabulary that ordered by term frequency across the corpus.
+        )
+X = cv.fit_transform(corpus).toarray()  # Sparse matrix(i.e; containing zero high sparsity)
+                                        # row=comments,
+                                        # col=tkoenizaed for each word(i.e; 0 = Not appear word in that comment
+                                                                          # 1 = Appeared word in that comment)
+y = dataset.iloc[:, 1].values   # 0=Negative comment, 1=positive comment 
 
-# Splitting the dataset into the Training set and Test set
-from sklearn.cross_validation import train_test_split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size = 0.20, random_state = 0)
+# Step 3: Splitting the dataset into the Training set and Test set
+from sklearn.model_selection import train_test_split
+X_train, X_test, y_train, y_test = train_test_split(X,y,   # dependent, independent variables
+                                                    test_size = 0.25, # 25% test size
+                                                    random_state = 0) # due to this our trained
 
 # Fitting Naive Bayes to the Training set
 from sklearn.naive_bayes import GaussianNB
