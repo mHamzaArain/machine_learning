@@ -1,4 +1,4 @@
-Welcome to Part 5 - Association Rule Learning!
+# Welcome to Part 5 - Association Rule Learning!
 
 
 People who bought also bought ... That is what Association Rule Learning will help us figure out!
