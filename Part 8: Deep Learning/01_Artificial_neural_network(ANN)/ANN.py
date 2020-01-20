@@ -82,7 +82,7 @@ classifier.add(Dense(output_dim = 1, init = 'uniform',
                                                 
 # Substep 4: Compiling the ANN
 classifier.compile(optimizer = 'adam',            # Type of Stochastic gradient algo to organizing of back propagation in most efficient way
-                   metrics = ['accuracy'],        # 
+                   metrics = ['accuracy'],        # For accuracy of result
                    loss = 'binary_crossentropy')  # O/P is 1 variable (binary)->  binary_crossentropy
                                                     # more than 2 O/P variables called -> catagorical_crossentropy 
                    
