@@ -14,6 +14,9 @@ In this part, you will understand and learn how to implement the following Deep 
 
     Artificial Neural Networks for a Business Problem
     Convolutional Neural Networks for a Computer Vision task
+    
+Explanation of Stochastic Gradient Descent
+> https://www.youtube.com/watch?v=yxNB4DOV4C4
 
 * Linux users, please open your terminal.
     On Linux, you will find it very easily, usually on the left side of your monitor.
