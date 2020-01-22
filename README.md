@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Machine Learning
 Machine Learning A-Z Hands-On Python & R In Data Science
 
@@ -59,9 +58,15 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 2. Eclat
 
 ## Part 7: Reinforcement Learning
+<<<<<<< HEAD
 1. Upper Confidence Bound(UCP)
+=======
+1. Upper Confidence Boundry(UCB)
+2. Thomson Sampling
+>>>>>>> origin/master
 
 ## Part 8: Neural Language Processing
+None
 
 ## Part 9: Deep Learning
 
@@ -70,5 +75,3 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 ## Part 11: Dimensionality Reduction 
 
 ## Part 12: Model Selection & Boosting
-=======
->>>>>>> dev
