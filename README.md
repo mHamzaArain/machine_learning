@@ -58,20 +58,19 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 2. Eclat
 
 ## Part 7: Reinforcement Learning
-<<<<<<< HEAD
-1. Upper Confidence Bound(UCP)
-=======
 1. Upper Confidence Boundry(UCB)
 2. Thomson Sampling
->>>>>>> origin/master
 
 ## Part 8: Neural Language Processing
 None
 
 ## Part 9: Deep Learning
+1. Artificial Neural Network(ANN)
+2. Convolutional Neural Network(CNN)
 
 ## Part 10: Dimensionality Reduction
-
-## Part 11: Dimensionality Reduction 
+1. Principal Component Analysis(PCA)
+2. Linear Dimensionality Analysis(LDA)
+3. Kernel LDA
 
 ## Part 12: Model Selection & Boosting
