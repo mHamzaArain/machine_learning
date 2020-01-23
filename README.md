@@ -61,7 +61,7 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 1. Upper Confidence Boundry(UCB)
 2. Thomson Sampling
 
-## Part 8: Neural Language Processing
+## Part 8: Natural Language Processing
 None
 
 ## Part 9: Deep Learning
