@@ -4,6 +4,13 @@ Machine Learning A-Z Hands-On Python & R In Data Science
 ## Datasets
 For datasets for this course [link](https://www.superdatascience.com/pages/machine-learning).
 
+##### Selection of Model
+> 1. 90% chances that model can be specified by business querry.
+> 2. If dataset does'nt have Dependant Variable(DV) it implies that it clustring problem.
+> 3. If dataset is continuous it's regression problem.
+> 4. If dataset is descrete it's classification.
+> 5. Check the dataset is either linear or non-linear.
+
 ## Part 0: Presrequisites
 - P-value
 - Residuals
