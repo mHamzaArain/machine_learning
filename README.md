@@ -10,9 +10,12 @@ For datasets for this course [link](https://www.superdatascience.com/pages/machi
 > 3. If dataset is continuous it's regression problem.
 > 4. If dataset is descrete it's classification.
 > 5. Check the dataset is either linear or non-linear.
->    a. In case of regression;
->    * Simple linear regression for linear
+> a. In case of regression;
+>    * Simple linear for linear
 >    * Polynomial, SVM, Decision Tree, Random Forest for non-linear
+> b. Incase of classification;
+>    * Logestic Regression & Linear Kernel SVM for linear
+>    * K-NN, Naive Bayes, Decision Tree & Random Forest for non-linear
 
 ## Part 0: Presrequisites
 - P-value
