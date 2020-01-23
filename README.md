@@ -74,3 +74,5 @@ None
 3. Kernel LDA
 
 ## Part 12: Model Selection & Boosting
+1. Model Selection & Boosting
+2. XGBoost
